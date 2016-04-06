@@ -1,12 +1,12 @@
 # Site settings
-name: John Smith
+name: Thorsten Hell
 description: "Nifty little description"
 url: ""
 
 
 # Delete the lines you don't need
 # about 7 elements are recomended
-github_username:  dashingcode
+github_username:  helllth
 #codepen_username: your_codepen_username_goes_here
 #facebook_username: your_facebook_username_goes_here
 vk_username: your_vk_username_goes_here
